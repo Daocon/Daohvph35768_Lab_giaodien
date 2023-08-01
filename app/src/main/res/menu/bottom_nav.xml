@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_tintuc"
+        android:icon="@drawable/sdadad"
+        android:title="Tin Tức" />
+
+    <item
+        android:id="@+id/Bottom_thoitiet"
+        android:icon="@drawable/cloudy"
+        android:title="Thời Tiết" />
+</menu>
